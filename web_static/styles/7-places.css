@@ -1,0 +1,30 @@
+/*
+  =====================
+  places style
+  =====================
+*/
+.title h1 {
+  font-size: 30px;
+  text-align: left;
+}
+
+article {
+  height: 30px;
+  width: 390px;
+  border: 1px #FF5A5F solid;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.articles h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-top: auto;
+}
